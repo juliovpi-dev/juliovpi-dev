@@ -14,16 +14,6 @@ Linux and command-line workflows. I'm also the co-creator of
 | [Audio Atlas](https://github.com/juliovpi-dev/decupador-audio-multifaixa) | A local Python tool for cataloging and clipping multilingual audio tracks from video files, powered by FFmpeg. |
 | [GIF Variant Studio](https://github.com/juliovpi-dev/gif-variant-studio) | A local GIF and video catalog for comparing five visual variants side by side, built with Python, SQLite, and FFmpeg. |
 
-### $ ./minesweeper
-
-My contributions, with a little arcade twist.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/minesweeper-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/minesweeper-contribution-graph.svg">
-  <img alt="Animated Minesweeper solver clearing my GitHub contribution graph" src="assets/minesweeper-contribution-graph.svg" width="100%">
-</picture>
-
 ### Tools & interests
 
 - **Web analytics** — understanding how people interact with websites.
