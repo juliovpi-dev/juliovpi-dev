@@ -48,4 +48,4 @@ I'm also the creator and owner of
 
 ---
 
-`julio@linux:~$ echo "Stay curious. Build useful things."`
+`julio@linux:~$ echo "Don’t confuse the great Picasso’s masterpiece with the construction foreman’s massive steel cock… I think it sounds better in Portuguese."`
