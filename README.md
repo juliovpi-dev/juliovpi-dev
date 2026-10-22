@@ -1,4 +1,4 @@
-![Julio's animated terminal](terminal.gif)
+![Julio's animated terminal](terminal-linux.gif)
 
 # Hey, I'm Julio
 
