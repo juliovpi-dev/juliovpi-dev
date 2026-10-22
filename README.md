@@ -1,3 +1,5 @@
+![Julio's animated terminal](terminal.gif)
+
 # Hey, I'm Julio
 
 **Web Analytics professional · Python & Linux enthusiast · DragonBalldle creator**
@@ -25,7 +27,7 @@ Outside work, I explore Python, Linux, and the command line.
 I like building practical tools, automating repetitive tasks,
 and learning by working on my own projects.
 
-I'm also the creator and owner of
+I'm also the co-creator of DragonBalldle.
 [DragonBalldle](https://dragonballdle.site).
 
 ### Featured projects
